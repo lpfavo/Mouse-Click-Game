@@ -1,4 +1,4 @@
-# riverCrossing
+# A Mouse-Click Game
 This is a puzzle game to help train brain. 
 
 You just use click the picture to change the play role and the planks from startpoint to endpoint.
